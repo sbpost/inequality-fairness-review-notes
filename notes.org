@@ -1,519 +1,519 @@
 * Gourdarzi et al (2020) Economic system justification predicts muted emotional responses to inequality
-**summary
-Peth higher economic system justification ("the system is fair") feel less negative emotion when seeing people that experience homelessness.
-**s
-Go, S.; Pliskin, R.; Jost, J. T.; Knowles, E. D.
-**
-20
-**l
-Namunications
-**y
-Stnd 2: not reported.
-St: USA (New York).
+** Short summary
+People with higher economic system justification ("the system is fair") feel less negative emotion when seeing people that experience homelessness.
+** Authors
+Gourdarzi, S.; Pliskin, R.; Jost, J. T.; Knowles, E. D.
+** Year
+2020
+** Journal
+Naure Communications
+** Country
+Study 1 and 2: not reported.
+Study 3-6: USA (New York).
 
-**d subjects
-Stnd 2: Respondents were recruited from Amazon Mechanical Turk (1) and Prolific Academic (2).
+** Sampled subjects
+Study 1 and 2: Respondents were recruited from Amazon Mechanical Turk (1) and Prolific Academic (2).
 
-St4, and 5: Respondents were undergraduates at NYU.
+Study 3, 4, and 5: Respondents were undergraduates at NYU.
 
-StRespondents were undergraduates at NYU.
+Study 6: Respondents were undergraduates at NYU.
 
-** size
-St105 subjects.
-St326 subjects.
-St4, and 5: 155 subjects.
+** Sample size
+Study 1: 105 subjects.
+Study 2: 326 subjects.
+Study 3, 4, and 5: 155 subjects.
 
-**ology
-Stnd 2: Subjects took part in two sessions. In the first session, participants completed Jost and Thomspons 17-item ESJ scale. To assess effects of social desirability concerns on affective reports, the Balanced Invemtory of Desirable Responding (BIDR) were adminstered in both studies. To examine the effects of individual differences in generalized empathy, the Empathic Concern (EC) subscale of the Interpersonal Reactivity Index was adminstered in study 2.
+** Methodology
+Study 1 and 2: Subjects took part in two sessions. In the first session, participants completed Jost and Thomspons 17-item ESJ scale. To assess effects of social desirability concerns on affective reports, the Balanced Invemtory of Desirable Responding (BIDR) were adminstered in both studies. To examine the effects of individual differences in generalized empathy, the Empathic Concern (EC) subscale of the Interpersonal Reactivity Index was adminstered in study 2.
 
-Abeek after the pretest measures, participants were invited to complete the second part of the studies. In both study 1 and 2 particpants watched two video clips in randomized order, a control-condition and "homeless"-condition.
+About 1 week after the pretest measures, participants were invited to complete the second part of the studies. In both study 1 and 2 particpants watched two video clips in randomized order, a control-condition and "homeless"-condition.
 
-Afh clip, participants in study 1 reported the emotions they felt toward the individual in the video and the "American socioeconomic system". In study 2, only person-directed emotions were assessed.
+After each clip, participants in study 1 reported the emotions they felt toward the individual in the video and the "American socioeconomic system". In study 2, only person-directed emotions were assessed.
 
-Miect linear regressions were conducted to examine the effects ESJ (z-scored), video-type (dummy scored), and ESJ x Video type interaction on affective reports.
+Mixed effect linear regressions were conducted to examine the effects ESJ (z-scored), video-type (dummy scored), and ESJ x Video type interaction on affective reports.
 
-St4, and 5: participants watched the video-clips used in study 1 while undergoing physiological measurements. Several weeks prior to the measurements, participants completed the ESJ scale. During the lab session, facial electromyography was used to asses activation of the corrugator supercili (brow) muscle to index negative affect. Affective arouseal was indexed by skin conductance level (SCL) which is a reliable measure of autonomic nervous system arousal. Study 3-5 were methodologically similar, but with three exceptions: 1) in study 4 SCL was not measured, 2) study 5 included the CF video-type used in study 2, 3) in study 3 the control condition always preceded the homeless condition.
+Study 3, 4, and 5: participants watched the video-clips used in study 1 while undergoing physiological measurements. Several weeks prior to the measurements, participants completed the ESJ scale. During the lab session, facial electromyography was used to asses activation of the corrugator supercili (brow) muscle to index negative affect. Affective arouseal was indexed by skin conductance level (SCL) which is a reliable measure of autonomic nervous system arousal. Study 3-5 were methodologically similar, but with three exceptions: 1) in study 4 SCL was not measured, 2) study 5 included the CF video-type used in study 2, 3) in study 3 the control condition always preceded the homeless condition.
 
-Miects linear regressions were doncudted to test the interactive effects of ESJ and video type on participants' corrugator activity, SCL, and self-reported affect.
+Mixed effects linear regressions were doncudted to test the interactive effects of ESJ and video type on participants' corrugator activity, SCL, and self-reported affect.
 
-Stparticipants received four text messages a day for 9 consecutive days. Each time, they were prompted to complete a short survey. Two daily surveys were designed to measure reactions to inequality (e.g. if they had encountered a very rich or very poor person). The prompt focused on one of these each time. The final two daily surveys were aimed at capturing emotional reports. At the beginning of the academic semester, ESJ was measured as part of the NYU psychology battery. This measurement was used as the ESJ-measurement in the analysis.
+Study 6: participants received four text messages a day for 9 consecutive days. Each time, they were prompted to complete a short survey. Two daily surveys were designed to measure reactions to inequality (e.g. if they had encountered a very rich or very poor person). The prompt focused on one of these each time. The final two daily surveys were aimed at capturing emotional reports. At the beginning of the academic semester, ESJ was measured as part of the NYU psychology battery. This measurement was used as the ESJ-measurement in the analysis.
 
-A ffects linear regression analyses was used to estimate the between- and within subject effects of exposure to rich and poor people.
+A mixed-effects linear regression analyses was used to estimate the between- and within subject effects of exposure to rich and poor people.
 
-**ents
-Stnd 2: In the homeless-condition, participants watched interviews with people experiencing homelessness. In the control condition, participants viewed interviews on mundane topics. In study 2 an additional video with people suffering from cystic fibrosis (CF), an inherited disease (where perception should not be related to ESJ) was also included.
+** Treatments
+Study 1 and 2: In the homeless-condition, participants watched interviews with people experiencing homelessness. In the control condition, participants viewed interviews on mundane topics. In study 2 an additional video with people suffering from cystic fibrosis (CF), an inherited disease (where perception should not be related to ESJ) was also included.
 
-St4 and 5; participants watched the video-clips used in study. In study 5 the CF condition from study 2 was also included.
+Study 3, 4 and 5; participants watched the video-clips used in study. In study 5 the CF condition from study 2 was also included.
 
-Sttwo times a day, participants were either prompted to answer if they had encountered a very rich or a very poor person. Regardless of the answer, participants were then asked to fill out a survey on their emotions. Having encountered a rich/poor person acts as treatment on emotional state in the analysis.
+Study 6: two times a day, participants were either prompted to answer if they had encountered a very rich or a very poor person. Regardless of the answer, participants were then asked to fill out a survey on their emotions. Having encountered a rich/poor person acts as treatment on emotional state in the analysis.
 
-**e var
-Stnd 2: person-directed emotions (sadness, pity, empathy) and system-directed emotions (anger, sadness, disgust).
+** Outcome var
+Study 1 and 2: person-directed emotions (sadness, pity, empathy) and system-directed emotions (anger, sadness, disgust).
 
-St4, 5: person-directed emotions (sadness, pity, empathy) and system-directed emotions (anger, sadness, disgust); physical measurments (facial electromyography on the brow muscle and skin conductance level) were used to index negative affect and autonomic nervous system arousal.
+Study 3, 4, 5: person-directed emotions (sadness, pity, empathy) and system-directed emotions (anger, sadness, disgust); physical measurments (facial electromyography on the brow muscle and skin conductance level) were used to index negative affect and autonomic nervous system arousal.
 
-Stperson-directed emotions toward target (empathy, anger, sadness, jealousy) and self (sadness) and system-directed emotions (anger, disgust).
+Study 6: person-directed emotions toward target (empathy, anger, sadness, jealousy) and self (sadness) and system-directed emotions (anger, disgust).
 
-** (and sign)
-In1, the video type had a significant effect on all person- and system directed emotions: more sadness, anger, disgust and guilt toward the person and system, and more empathy and pity toward the person, and less pride and hope in the system after watching the homelessness video (vs control) (P < 0.001). There was also a negative interactive effect between ESJ and video-type, indicating that the video had a smaller negative effect on high ESJ subjects.
+** Impact (and sign)
+In study 1, the video type had a significant effect on all person- and system directed emotions: more sadness, anger, disgust and guilt toward the person and system, and more empathy and pity toward the person, and less pride and hope in the system after watching the homelessness video (vs control) (P < 0.001). There was also a negative interactive effect between ESJ and video-type, indicating that the video had a smaller negative effect on high ESJ subjects.
 
-Sthows similar results. Exposure to the homeless video significant increased all person and system-directed emoitions. Again, a significant and negative ESJ x Homelessness ineraction were found. Contrary to expection, there was also a negative ESJ x CF interaction. Importantly, the interaction between ESJ and CF was smaller than ESJ and homelessness.
+Study 2 shows similar results. Exposure to the homeless video significant increased all person and system-directed emoitions. Again, a significant and negative ESJ x Homelessness ineraction were found. Contrary to expection, there was also a negative ESJ x CF interaction. Importantly, the interaction between ESJ and CF was smaller than ESJ and homelessness.
 
-Stnd 2 provide evidence that system justifying beliefs increase the experience of negative emotions after witnessing economic inequality. First, ESJ predicted reactions to economic hardship more trsongly than it did non-economic hardship (CF). Second, the effect of ESJ on emotions was not explained by differences in EC.
+Study 1 and 2 provide evidence that system justifying beliefs increase the experience of negative emotions after witnessing economic inequality. First, ESJ predicted reactions to economic hardship more trsongly than it did non-economic hardship (CF). Second, the effect of ESJ on emotions was not explained by differences in EC.
 
-In3, regression analyses showed that the homeless video induced slightly weaker corrugator activity and SCL for participants that had high ESJ. Study 4 replicated the corrugator effect. Study 5 replicated both corrugator and SCL effects. In Study 5 the ESJ x CF interaction was non-significant, i.e. the "soothening" effects of high ESJ did not extend to non-economic suffering.
+In study 3, regression analyses showed that the homeless video induced slightly weaker corrugator activity and SCL for participants that had high ESJ. Study 4 replicated the corrugator effect. Study 5 replicated both corrugator and SCL effects. In Study 5 the ESJ x CF interaction was non-significant, i.e. the "soothening" effects of high ESJ did not extend to non-economic suffering.
 
-Stbserved a significant negative ESJ x Poor interaction for anger and disgust against the system, i.e. people with high ESJ were had comparatively less negative emotions against the system after reporting an encounter with a poor person. There were also a a significant ESJ x poor interaction on anger towards the poor person, such that low ESJ particiapnts (but not high) expressed anger. There was also a significant negative ESJ x rich interaction for anger and disgust at the system. Finally, self-reported emotional reactions to ecountering inequality was correlated with self-described political views (more conservative were less negatively impacted and had higher faith in the economic system).
+Study 6 observed a significant negative ESJ x Poor interaction for anger and disgust against the system, i.e. people with high ESJ were had comparatively less negative emotions against the system after reporting an encounter with a poor person. There were also a a significant ESJ x poor interaction on anger towards the poor person, such that low ESJ particiapnts (but not high) expressed anger. There was also a significant negative ESJ x rich interaction for anger and disgust at the system. Finally, self-reported emotional reactions to ecountering inequality was correlated with self-described political views (more conservative were less negatively impacted and had higher faith in the economic system).
 
-**geneous effects
+** Heterogeneous effects
 -
-**comments
-Ecsystem justification (ESJ) is the belief that the capitalist system provides individuals with equal opportunity to succeed, and that outcomes are determined by merit.
+** Other comments
+Economic system justification (ESJ) is the belief that the capitalist system provides individuals with equal opportunity to succeed, and that outcomes are determined by merit.
 
-Idal palliation is the idea that people take up certain beliefs to blunt the impact of social problems that can cause averse experiences. Central to this idea is that economic ideology shapes the affect that one may feel when confronted with inequality.
+Ideological palliation is the idea that people take up certain beliefs to blunt the impact of social problems that can cause averse experiences. Central to this idea is that economic ideology shapes the affect that one may feel when confronted with inequality.
 
 * Bechtel et al (2018) Inequality and redistribution behavior in a give-or-take game
-**summary
-Ining with no costs of redsitribution, participants choose to give up ~12% of their endowment to get more equitable outcomes. There is large heterogeneity in redistributiver behaviour: people how take from the richer do not also give to those that are poorer. Additionally, most people either reditribute fully or not at all.
+** Short summary
+In a setting with no costs of redsitribution, participants choose to give up ~12% of their endowment to get more equitable outcomes. There is large heterogeneity in redistributiver behaviour: people how take from the richer do not also give to those that are poorer. Additionally, most people either reditribute fully or not at all.
 
-**s
-BeM. M.; Liesch, R.; Scheve, K. F.
-**
-20
+** Authors
+Bechtel, M. M.; Liesch, R.; Scheve, K. F.
+** Year
+2018
 
-**l
-Prgs of the National Academy of Sciences (PNAS)
-**y
-USermany.
+** Journal
+Proceedings of the National Academy of Sciences (PNAS)
+** Country
+USA and Germany.
 
-**d subjects
-Reative survey samples of the German and US population.
+** Sampled subjects
+Representative survey samples of the German and US population.
 
-** size
-Ge2217 respondents. USA: 2749 respondents.
+** Sample size
+Germany: 2217 respondents. USA: 2749 respondents.
 
-**ology
-Thiement was embedded in surveys given to representative samples in the two countries. Two gift-cards were raffled among survey participants. Participants were then randomly assigned one of three gift-card value distributions: a condition where they got less then the other gift-card winner ("own poorer"), a condition where they got more ("own richer"), and condition with equal value of the gift-cards ("equality"). After being assigned to a gift-card condition participants had to drag a slider to indicate how much they would like to give or take to/from the other participant. Participants could take or give as much as they wanted (within the limits of the gift card).
+** Methodology
+The experiement was embedded in surveys given to representative samples in the two countries. Two gift-cards were raffled among survey participants. Participants were then randomly assigned one of three gift-card value distributions: a condition where they got less then the other gift-card winner ("own poorer"), a condition where they got more ("own richer"), and condition with equal value of the gift-cards ("equality"). After being assigned to a gift-card condition participants had to drag a slider to indicate how much they would like to give or take to/from the other participant. Participants could take or give as much as they wanted (within the limits of the gift card).
 
-Sehe authors use survey questions to estimate individual level aversion to inequality. Respondents were asked how much they would give to other person if their (the other's) initial gift card value was $5, $15, $25, $50, $75, $85 or $95 while keeping the respondents gift card value constant (which was randomly assigned to be $25, $50, or $75).
-**ents
-Pants were randomly assigned to one of three gift card distributions: either the participant got $25 and the other got $75 (own poorer), the participant got $75 and the other got $25 (own richer), or both participants got $50 (equality).
+Second, the authors use survey questions to estimate individual level aversion to inequality. Respondents were asked how much they would give to other person if their (the other's) initial gift card value was $5, $15, $25, $50, $75, $85 or $95 while keeping the respondents gift card value constant (which was randomly assigned to be $25, $50, or $75).
+** Treatments
+Participants were randomly assigned to one of three gift card distributions: either the participant got $25 and the other got $75 (own poorer), the participant got $75 and the other got $25 (own richer), or both participants got $50 (equality).
 
-**e var
-Reutive behaviour: how much gift-card value the participants chose to give to the other gift-card winner.
+** Outcome var
+Redistributive behaviour: how much gift-card value the participants chose to give to the other gift-card winner.
 
-Inl aversion to inequality: how much money would the participants give if their initial gift-card value was at given levels (estimated).
+Individual aversion to inequality: how much money would the participants give if their initial gift-card value was at given levels (estimated).
 
-** (and sign)
-- effect of inequality on redistributive behavior: respondents that were in an advantageous inequality position ("own richer") chose to give 12% ($9) of their endowment to the poorer participant. In the "equality" condition, the amount reallocated is statistically indifferent from 0. Respondents that were in a disadvantagous inequality position ("own poorer") chose to take 13% ($10) of the richer participant's endowment. There is very little difference between German and American participants. In sum: participants chose to incompletely reduce inequality under both inquality conditions.
+** Impact (and sign)
+- Causal effect of inequality on redistributive behavior: respondents that were in an advantageous inequality position ("own richer") chose to give 12% ($9) of their endowment to the poorer participant. In the "equality" condition, the amount reallocated is statistically indifferent from 0. Respondents that were in a disadvantagous inequality position ("own poorer") chose to take 13% ($10) of the richer participant's endowment. There is very little difference between German and American participants. In sum: participants chose to incompletely reduce inequality under both inquality conditions.
 
-- ual aversion to inequality: 22%/15% of German/American respondents perfectly equalize when facing unfavorable inequality. 15%/20% of people choose no redistribution in Germany/USA. 22%/17% completely remove favorable inequality in Germany/USA. In the US, the most frequent response to "other poor" is to leave gift values unchanged (20%). In Germany, 12% leaves gift cards unchanged in the same situation.
+- Individual aversion to inequality: 22%/15% of German/American respondents perfectly equalize when facing unfavorable inequality. 15%/20% of people choose no redistribution in Germany/USA. 22%/17% completely remove favorable inequality in Germany/USA. In the US, the most frequent response to "other poor" is to leave gift values unchanged (20%). In Germany, 12% leaves gift cards unchanged in the same situation.
 
-- people either redistributes 0 or redistributes fully. Individuals also tend to either redistribute when faced with advantagous inequality (own rich) or disadvantagous inequality (own poor), but not both. Only around 30% of people are adverse to both types of inequality. Survey questions on how much respondents agree on policies support the findings. Disadvantagous inequality equalizers are significant more likely to support heavy taxes on the rich (opposed to non-equalizers). No difference in support for welfare benefits. Advantagous inequality equalizers are statistically more opposed to cutting welfare.
+- 70% of people either redistributes 0 or redistributes fully. Individuals also tend to either redistribute when faced with advantagous inequality (own rich) or disadvantagous inequality (own poor), but not both. Only around 30% of people are adverse to both types of inequality. Survey questions on how much respondents agree on policies support the findings. Disadvantagous inequality equalizers are significant more likely to support heavy taxes on the rich (opposed to non-equalizers). No difference in support for welfare benefits. Advantagous inequality equalizers are statistically more opposed to cutting welfare.
 
-**geneous effects
-Laerogeneity in redistributive behaviour: 70% of participants either redistributes 0 or redistributes fully (making outcomes equal). The experiment also suggets that individuals tend to be adverse to either advantagous inequality OR disadvantagous inequality.
+** Heterogeneous effects
+Large heterogeneity in redistributive behaviour: 70% of participants either redistributes 0 or redistributes fully (making outcomes equal). The experiment also suggets that individuals tend to be adverse to either advantagous inequality OR disadvantagous inequality.
 
-**comments
+** Other comments
 -
 
 * Day and Fiske (2017) Movin’ on Up? How Perceptions of Social Mobility Affect Our Willingness to Defend the System
-**summary
-Twiments find that supplying people with information that frames social mobility as either high or low affects their defence of the social system. When people perceive social mobility as lower, they are less likely to defend the system.
+** Short summary
+Two experiments find that supplying people with information that frames social mobility as either high or low affects their defence of the social system. When people perceive social mobility as lower, they are less likely to defend the system.
 
-**s
-Da.; Fiske, S. T
-**
-20
+** Authors
+Day, M. V.; Fiske, S. T
+** Year
+2016
 
-**l
-Soychological and Personality Science
+** Journal
+Social Psychological and Personality Science
 
-**y
-USon MTurk)
+** Country
+USA (Amazon MTurk)
 
-**d subjects
-Stparticipants were recruited from Amazon's Mechanical Turk. Participants were restricted to the US.
+** Sampled subjects
+Study 1: participants were recruited from Amazon's Mechanical Turk. Participants were restricted to the US.
 
-Stparticipants were recruited from Amazon's Mechanical Turk. Participants were restricted to the US.
+Study 2: participants were recruited from Amazon's Mechanical Turk. Participants were restricted to the US.
 
-** size
-St199 participants were recruited. Four violated exclusion criteria, leaving 195 participants in the experiment (mean age = 34.2, male/female = 46.6%/53.4%).
+** Sample size
+Study 1: 199 participants were recruited. Four violated exclusion criteria, leaving 195 participants in the experiment (mean age = 34.2, male/female = 46.6%/53.4%).
 
-St501 participants were recruited. 9 violated exclusion criteria, leaving 492 participants (mean age = 34.2, male/female = 50.8%/49.2%).
+Study 2: 501 participants were recruited. 9 violated exclusion criteria, leaving 492 participants (mean age = 34.2, male/female = 50.8%/49.2%).
 
-**ology
-StParticipants were randomly assigned to read one of two possible summary repports describing social mobility in America. Both reports cited the same study, but either with emphasis of statistics that emphasised moderate social mobility or low social mobility. Participants then answered questions designed to measure system defence and four system-legitimizing ideologies (meritocratic belief, group-based dominance, group-based opposition to equality, and belief in a just world). All main measures uses 7-point likert (strong agree = 1, strongly disagree = 7)
+** Methodology
+Study 1: Participants were randomly assigned to read one of two possible summary repports describing social mobility in America. Both reports cited the same study, but either with emphasis of statistics that emphasised moderate social mobility or low social mobility. Participants then answered questions designed to measure system defence and four system-legitimizing ideologies (meritocratic belief, group-based dominance, group-based opposition to equality, and belief in a just world). All main measures uses 7-point likert (strong agree = 1, strongly disagree = 7)
 
-StThe study was designed to be similar to study 1, but with three changes. First, a baseline control was added (i.e. no social mobility framing). Second, the social mobility information was shortened and made easier to understand. Third, measures were changed. Measures of system defence, meritocratic belief, and belief in a just world (the significan mediators in study 1) were kept.
+Study 2: The study was designed to be similar to study 1, but with three changes. First, a baseline control was added (i.e. no social mobility framing). Second, the social mobility information was shortened and made easier to understand. Third, measures were changed. Measures of system defence, meritocratic belief, and belief in a just world (the significan mediators in study 1) were kept.
 
-**ents
-Pants read a brief report designed to induce perceptions of either moderate or low social
-mo In the moderate social mobility-treatment condition, participants read an article that described a study on the relatively good social mobility in America, including statistics on the chances that people from the bottom 20% of incomes will move up, and the chances that people from the top 20% will move down. All statistics were based on a real study (Bengali & Daly, 2013).
+** Treatments
+Participants read a brief report designed to induce perceptions of either moderate or low social
+mobility. In the moderate social mobility-treatment condition, participants read an article that described a study on the relatively good social mobility in America, including statistics on the chances that people from the bottom 20% of incomes will move up, and the chances that people from the top 20% will move down. All statistics were based on a real study (Bengali & Daly, 2013).
 
-Si in the low social mobility-treatment condition, participants read an article that described the same study but framing statistics from the study to convey a message of low social mobility.
+Similary, in the low social mobility-treatment condition, participants read an article that described the same study but framing statistics from the study to convey a message of low social mobility.
 
-**e var
-Thoutcome was changes in participants willingness to defend the system. This was measured through the level of meritocratic beliefs and belief in a just world.
+** Outcome var
+The main outcome was changes in participants willingness to defend the system. This was measured through the level of meritocratic beliefs and belief in a just world.
 
-** (and sign)
-StThe low social mobility framing led participants to report a lower percevied social mobility (vs moderate mobility framing) (2.67 vs 3.63 on 8-point scale, P < 0.001). Exposure to the low social mobility framing also led people to engage in less system defence (3.17 vs 3.87 on 7-point scale, P < 0.001). The low mobility frame also gave lower meritocratic beliefs (3.51 vs 4.08, P < 0.001), less belief in a just world (3.31 vs 3.77, P < 0.05). Change in group-based dominance or group-based opposition to inequality were not significant. The presentation order did not significantly influence results.
+** Impact (and sign)
+Study 1: The low social mobility framing led participants to report a lower percevied social mobility (vs moderate mobility framing) (2.67 vs 3.63 on 8-point scale, P < 0.001). Exposure to the low social mobility framing also led people to engage in less system defence (3.17 vs 3.87 on 7-point scale, P < 0.001). The low mobility frame also gave lower meritocratic beliefs (3.51 vs 4.08, P < 0.001), less belief in a just world (3.31 vs 3.77, P < 0.05). Change in group-based dominance or group-based opposition to inequality were not significant. The presentation order did not significantly influence results.
 
-StRelative to the control condition (3.33), social mobility perceptions were higher following moderate social mobility framing (3.65, P < 0.001) and lower following low social mobility framing (2.88, P < 0.001). Consistent with study 1, low social mobility framing reduced defence of the overall system compared to the moderate mobility framing (3.36 vs 3.87, P < 0.001). Changes in relation to the control group were marginal (0.1 > P > 0.05).
+Study 2: Relative to the control condition (3.33), social mobility perceptions were higher following moderate social mobility framing (3.65, P < 0.001) and lower following low social mobility framing (2.88, P < 0.001). Consistent with study 1, low social mobility framing reduced defence of the overall system compared to the moderate mobility framing (3.36 vs 3.87, P < 0.001). Changes in relation to the control group were marginal (0.1 > P > 0.05).
 
-**geneous effects
+** Heterogeneous effects
 -
-**comments
-NOle ESJ is not a direct measurement of redistributive preferences, it is tied to inequality perceptions and preferences in several other papers reviewed here.
+** Other comments
+NOTE: While ESJ is not a direct measurement of redistributive preferences, it is tied to inequality perceptions and preferences in several other papers reviewed here.
 
 * Trump (2017) Income Inequality Inﬂuences Perceptions of Legitimate Income Differences
-**summary
-Thdies find that giving information on actual inequality to participants increase their recommended inequality (vs control). A final study show that if also given information desgined to increase system justification, the participants given the information treatment increase their recommended inequality further.
+** Short summary
+Three studies find that giving information on actual inequality to participants increase their recommended inequality (vs control). A final study show that if also given information desgined to increase system justification, the participants given the information treatment increase their recommended inequality further.
 
-**s
-Tr
+** Authors
+Trump, K.
 
-**
-20
+** Year
+2017
 
-**l
-Brournal of Political Science
+** Journal
+British Journal of Political Science
 
-**y
-StUnited States
+** Country
+Study 1: United States
 
-StUnited States (Amazon MTurk)
+Study 2: United States (Amazon MTurk)
 
-StSweden
+Study 3: Sweden
 
-StUnited States (Amazon MTurk)
+Study 4: United States (Amazon MTurk)
 
-**d subjects
-Stparticipants were recruited from Psychological Study Pool of a large university in Northeastern United States.
+** Sampled subjects
+Study 1: participants were recruited from Psychological Study Pool of a large university in Northeastern United States.
 
-Stparticipants were recruited from Amazon's Mechanical Turk. Participants were from the US.
+Study 2: participants were recruited from Amazon's Mechanical Turk. Participants were from the US.
 
-Stparticipants were recruited from a combination of the psychology study pool at a Swedish university and from the online study pool "Studentkaninen".
+Study 3: participants were recruited from a combination of the psychology study pool at a Swedish university and from the online study pool "Studentkaninen".
 
-Stparticipants were recruited from Amazon's Mechanical Turk. Participants were from the US.
+Study 4: participants were recruited from Amazon's Mechanical Turk. Participants were from the US.
 
-** size
-St65 participants were recruited. 12 violated exclusion criteria, so the experiment was conducted with 53 participants (mean/median age = 30/24, male/female = 28/25).
+** Sample size
+Study 1: 65 participants were recruited. 12 violated exclusion criteria, so the experiment was conducted with 53 participants (mean/median age = 30/24, male/female = 28/25).
 
-St407 participants were rectruited (mean age = 30, male/female = 64%/36%).
+Study 2: 407 participants were rectruited (mean age = 30, male/female = 64%/36%).
 
-St250 participants were recruited (90 from the psychology study pool, 160 from the online study pool) (mean/median age = 26/24, male /female = 40%/60%).
+Study 3: 250 participants were recruited (90 from the psychology study pool, 160 from the online study pool) (mean/median age = 26/24, male /female = 40%/60%).
 
-St616 participants were recruited (mean/median age = 30, 27, male/female = 63%/37%).
+Study 4: 616 participants were recruited (mean/median age = 30, 27, male/female = 63%/37%).
 
-**ology
-In1, participants took part in a lab experiment. In the experiment, participants took part in a competition where the inequality of prizes was randomly assigned. To create a condition of "plausible" inequality, the rewards were "earned" in four-minute anagram solving competiton. Participants were either assigned a "more unequal" treatment or a "less unequal" treatment. After the competition, participants were given a questionnaire, including how they would distribute the $10 between the loser/winner if they were to desgin the game.
+** Methodology
+In study 1, participants took part in a lab experiment. In the experiment, participants took part in a competition where the inequality of prizes was randomly assigned. To create a condition of "plausible" inequality, the rewards were "earned" in four-minute anagram solving competiton. Participants were either assigned a "more unequal" treatment or a "less unequal" treatment. After the competition, participants were given a questionnaire, including how they would distribute the $10 between the loser/winner if they were to desgin the game.
 
-In2, participants were divided into a control group and an information treatment (half in each). Participants were asked to answer a questionnaire on demographics, their belief in a just world, and questions on perceived and and ideal income inequality. The "information-treated" participants received additional information in the questionnaire. All respondents finally answered questions on icome, race, partisanship, trust and political attitutes. Inequality was measured following the ratio between the perceived earnings of a high status occupations earnings and the perceived earnings of a low status occuption, as well as the ratio between the ideal earnings of a high status occuption and the perceived earnings of a low status occuption. This metric is often used in studies using the ISSP's inequality module.
+In study 2, participants were divided into a control group and an information treatment (half in each). Participants were asked to answer a questionnaire on demographics, their belief in a just world, and questions on perceived and and ideal income inequality. The "information-treated" participants received additional information in the questionnaire. All respondents finally answered questions on icome, race, partisanship, trust and political attitutes. Inequality was measured following the ratio between the perceived earnings of a high status occupations earnings and the perceived earnings of a low status occuption, as well as the ratio between the ideal earnings of a high status occuption and the perceived earnings of a low status occuption. This metric is often used in studies using the ISSP's inequality module.
 
-Steplicates experiment 2 in Sweden. All participants took the survey online.
+Study 3 replicates experiment 2 in Sweden. All participants took the survey online.
 
-Stests whether justification motivation plays a role in the observed differences. The study is an exact replica of study two, but with an additional "system justification" treatment. The experiment thus have a 2 (inequality vs control) by 2 (economic system justification vs control) design.
+Study 4 tests whether justification motivation plays a role in the observed differences. The study is an exact replica of study two, but with an additional "system justification" treatment. The experiment thus have a 2 (inequality vs control) by 2 (economic system justification vs control) design.
 
-**ents
-Stparticipants were randomly assigned either a "more unequal" or a "less unequal" treatment. In the "more unequal" treatment, the loser/winner reward split was $1 and $9. In the "less unequal" treatment the split was $3 and $6.
+** Treatments
+Study 1: participants were randomly assigned either a "more unequal" or a "less unequal" treatment. In the "more unequal" treatment, the loser/winner reward split was $1 and $9. In the "less unequal" treatment the split was $3 and $6.
 
-Stthe control group answered only basic demographic questions, the scale on belief in a just world, and questions on perceived and ideal income inequality. The treatment group received additional information on current income inequality in the United States. The information was inserted immediately after guessing existing income inequality, and just before giving the ideal inequality level.
+Study 2: the control group answered only basic demographic questions, the scale on belief in a just world, and questions on perceived and ideal income inequality. The treatment group received additional information on current income inequality in the United States. The information was inserted immediately after guessing existing income inequality, and just before giving the ideal inequality level.
 
-Stsee study 2.
+Study 3: see study 2.
 
-Stin addition to the treatments in study 2, the study includes a "system justification" treatment. This entailed reading a paragraph designed to tmeporarily increase participants system justification. The paragraph tells participants that it will become more difficult to escape their social system (by emigrating) in the future. The information is designed to make participants feel more dependent on their social system, and increase their motivation to believe that the social system (in this case, the United States) is fair.
+Study 4: in addition to the treatments in study 2, the study includes a "system justification" treatment. This entailed reading a paragraph designed to tmeporarily increase participants system justification. The paragraph tells participants that it will become more difficult to escape their social system (by emigrating) in the future. The information is designed to make participants feel more dependent on their social system, and increase their motivation to believe that the social system (in this case, the United States) is fair.
 
-**e var
-Stthe amount of money a participant would reward to the winner of the competition (given at the questionnaire).
+** Outcome var
+Study 1: the amount of money a participant would reward to the winner of the competition (given at the questionnaire).
 
-Stattitudes toward inequality (perceived and recommended level of inequality).
+Study 2: attitudes toward inequality (perceived and recommended level of inequality).
 
-Stsee study 2.
+Study 3: see study 2.
 
-Stsee study 2.
+Study 4: see study 2.
 
-** (and sign)
-StParticipants in the "less unequal" treatment would, on average, give the winner $6.15. Particiants in the "more unequal" condition would, on average, give the winner $7.77. The difference is statistically significant (P < 0.001). Participants under "more unequal" treatment also were more likely to report that their payment was unfair (P < 0.05). That is, despite that participants in the "more unequal" treatment saw the distribution as more unfair, they still rewarded more money to the winner than participants in the "less unqual" treatment.
+** Impact (and sign)
+Study 1: Participants in the "less unequal" treatment would, on average, give the winner $6.15. Particiants in the "more unequal" condition would, on average, give the winner $7.77. The difference is statistically significant (P < 0.001). Participants under "more unequal" treatment also were more likely to report that their payment was unfair (P < 0.05). That is, despite that participants in the "more unequal" treatment saw the distribution as more unfair, they still rewarded more money to the winner than participants in the "less unqual" treatment.
 
-StThe information treatment casued respndents to revise their recommended levels of income inequality upward (perceptions about ideal inequality increase about 50%) (P < 0.001). It did not have an impact on attitudes abut whether inequality in America is too large. People who identify as republicans and who believe that the world is just also recommend higher levels of inequality. People who thought that inequality in the was relatively high also recommend higher levels of inequality.
+Study 2: The information treatment casued respndents to revise their recommended levels of income inequality upward (perceptions about ideal inequality increase about 50%) (P < 0.001). It did not have an impact on attitudes abut whether inequality in America is too large. People who identify as republicans and who believe that the world is just also recommend higher levels of inequality. People who thought that inequality in the was relatively high also recommend higher levels of inequality.
 
-StSimilar to study 2, the information treatment (now on actual inequality in Sweden) pushed the recommend income inequality ratio upwards (20% increase, P < 0.05). The effect size is comparable to having voted for a right-wing party at last election. It is noteworthy that both perceived and ideal ratios were smaller than in the US and the information supplied had smaller CEO salaries (because inequality is smaller in Sweden).
+Study 3: Similar to study 2, the information treatment (now on actual inequality in Sweden) pushed the recommend income inequality ratio upwards (20% increase, P < 0.05). The effect size is comparable to having voted for a right-wing party at last election. It is noteworthy that both perceived and ideal ratios were smaller than in the US and the information supplied had smaller CEO salaries (because inequality is smaller in Sweden).
 
-StAcross the whole sample, participants who read the system justification paragraph recommended higher inequality. The impact from system justification treatment is driven completely by people who were exposed to the information treatment. That is, the economic system justification treatment increased participants belief in the system, was then presented with the inequality present in the system, and adjusted their income inequality preference upwards.
+Study 4: Across the whole sample, participants who read the system justification paragraph recommended higher inequality. The impact from system justification treatment is driven completely by people who were exposed to the information treatment. That is, the economic system justification treatment increased participants belief in the system, was then presented with the inequality present in the system, and adjusted their income inequality preference upwards.
 
-**geneous effects
-In4, the impact from system justification treatment is driven by people who were exposed to the information treatment, i.e. the treatment did not have an effect on the control group.
+** Heterogeneous effects
+In study 4, the impact from system justification treatment is driven by people who were exposed to the information treatment, i.e. the treatment did not have an effect on the control group.
 
-**comments
-NOseems plausible that the finding could be driven by the anchoring/ratio effects found in Pedersen and Mutz (2019). Receiving information actual inequality could provide a similar anchor to the information their paper, i.e. actual inequality levels, which are usually substantially higher than uninformed perceived inequality. In other words, it might be that instead of testing if perceptions of current inequality influences the recommended inequality, the study tests if given a high inequality number (the anchor) increases the number supplied in the subsequent questionnaire (the recommended inequality).
+** Other comments
+NOTE: It seems plausible that the finding could be driven by the anchoring/ratio effects found in Pedersen and Mutz (2019). Receiving information actual inequality could provide a similar anchor to the information their paper, i.e. actual inequality levels, which are usually substantially higher than uninformed perceived inequality. In other words, it might be that instead of testing if perceptions of current inequality influences the recommended inequality, the study tests if given a high inequality number (the anchor) increases the number supplied in the subsequent questionnaire (the recommended inequality).
 
 * Gartner et al (2017) Individual risk preferences and the demand for redistribution
-**summary
-Giertainty, risk averse people should be in favor of egalitarian redistribution (as insurance). This pattern is found in Swedish survey data.
+** Short summary
+Given uncertainty, risk averse people should be in favor of egalitarian redistribution (as insurance). This pattern is found in Swedish survey data.
 
-**s
-GäM.; Mollerstrom, J.; Seim, D.
+** Authors
+Gärtner, M.; Mollerstrom, J.; Seim, D.
 
-**
-20
+** Year
+2017
 
-**l
-Jof Public Economics
+** Journal
+Journal of Public Economics
 
-**y
-Sw
+** Country
+Sweden
 
-**d subjects
-A nnaire was send out a representative sample of Swedish individuals (aged 18+).
+** Sampled subjects
+A questionnaire was send out a representative sample of Swedish individuals (aged 18+).
 
-** size
-Thy was distributed to 4500 Swedish individuals. Of the 1565 respondents, 87% answered all questions needed for the analysis. This leaves 1365 individual participants in the study. The included survey respondents were matched with annual adminstrative data on incomes, taxes, and other labor-market outcomes. The survey was carried out in 2011.
+** Sample size
+The survey was distributed to 4500 Swedish individuals. Of the 1565 respondents, 87% answered all questions needed for the analysis. This leaves 1365 individual participants in the study. The included survey respondents were matched with annual adminstrative data on incomes, taxes, and other labor-market outcomes. The survey was carried out in 2011.
 
-**ology
-Thy was designed to measure risk aversion and redistributive preferences.
+** Methodology
+The survey was designed to measure risk aversion and redistributive preferences.
 
-- k aversion module had 8 hypothetical questions where the participant chooses between a stable option and lottery option. This approach has been validated to correlate with real-world risk averseness.
+- The risk aversion module had 8 hypothetical questions where the participant chooses between a stable option and lottery option. This approach has been validated to correlate with real-world risk averseness.
 
-- redistribution module participants listed their preferences for redistribution between 0 and 10 (none vs full redistribution). The listed redistribution correlates with left-leaning voting behaviour.
+- In the redistribution module participants listed their preferences for redistribution between 0 and 10 (none vs full redistribution). The listed redistribution correlates with left-leaning voting behaviour.
 
-Thsis uses multiple linear regression to test the relationship between survey responses, labor-market outcomes, and preference for redistribution.
+The analysis uses multiple linear regression to test the relationship between survey responses, labor-market outcomes, and preference for redistribution.
 
-**ents
-Nomental manipulation was done.
+** Treatments
+No experimental manipulation was done.
 
-**e var
-Rision: coded such 0 means that an individual always chose the risky lottery option, while 8 means that she always chose the safe option.
+** Outcome var
+Risk aversion: coded such 0 means that an individual always chose the risky lottery option, while 8 means that she always chose the safe option.
 
-Pre for redistribution: 10-point scale (none vs full redistribution).
+Preference for redistribution: 10-point scale (none vs full redistribution).
 
-** (and sign)
-Tha positive, linear relationship between risk averseness and preferences for redistribution. This relationship holds under all regression specifications and with all robustness checks and controls.
+** Impact (and sign)
+There is a positive, linear relationship between risk averseness and preferences for redistribution. This relationship holds under all regression specifications and with all robustness checks and controls.
 
-Onard deviation increase in risk averseness is associated with an increase in demand for redistribution of between 7.7% and 7.2% of a standard deviation.
+One standard deviation increase in risk averseness is associated with an increase in demand for redistribution of between 7.7% and 7.2% of a standard deviation.
 
-Tha negative relationship between higher income and demand for redistribution. Assuming a linear relationship, a one SD change in risk averseness has same effect on demand for redistribution as 25 000 USD change in income.
+There is a negative relationship between higher income and demand for redistribution. Assuming a linear relationship, a one SD change in risk averseness has same effect on demand for redistribution as 25 000 USD change in income.
 
-Si, one SD change in expected social mobility corresponds to 0.8 SD change in risk aversion.
+Similarly, one SD change in expected social mobility corresponds to 0.8 SD change in risk aversion.
 
-Be the luck being more important than effort is also associtated with more redistribution. One SD change in effort belief has the same effect as one SD change in risk averseness.
-**geneous effects
+Belief in the luck being more important than effort is also associtated with more redistribution. One SD change in effort belief has the same effect as one SD change in risk averseness.
+** Heterogeneous effects
 -
-**comments
+** Other comments
 -
 * Mollerstrom et al (2015) Luck, choice and responsibility — An experimental study of fairness views
-**summary
-Inerimental game, 'disinterested spectators' compensate insurance choices even when insurance would not have helped. Instead of 'luck egalitarians', many people seem to be 'choice compensators'.
-**s
-Moom, J.; Reme, B.; Sørensen, E. Ø.
-**
-20
-**l
-Jof public economics
-**y
-USon, MA)
-**d subjects
-Pants were recruited from the Computer Lab for Experimental Research's (CLER) subject pool (mainly students from the Boston Area). CLER is located at Harvard Business School.
-** size
-15ciapnts were recruited (mean age: 24, 59% female).
-**ology
-Thiment was conducted at the lab across several sessions. Each experimental session was identical and consisted of two parts. Participants were randomly assigned to treatments.
+** Short summary
+In an experimental game, 'disinterested spectators' compensate insurance choices even when insurance would not have helped. Instead of 'luck egalitarians', many people seem to be 'choice compensators'.
+** Authors
+Mollerstrom, J.; Reme, B.; Sørensen, E. Ø.
+** Year
+2015
+** Journal
+Journal of public economics
+** Country
+USA (Boston, MA)
+** Sampled subjects
+Participants were recruited from the Computer Lab for Experimental Research's (CLER) subject pool (mainly students from the Boston Area). CLER is located at Harvard Business School.
+** Sample size
+152 particiapnts were recruited (mean age: 24, 59% female).
+** Methodology
+The experiment was conducted at the lab across several sessions. Each experimental session was identical and consisted of two parts. Participants were randomly assigned to treatments.
 
-**ents
-Fil participants were informed that they had been allocated an endowment of $24. They were told that at the end of part 1, one of three equally probable outcomes would be drawn (A, B, or C).
+** Treatments
+First, all participants were informed that they had been allocated an endowment of $24. They were told that at the end of part 1, one of three equally probable outcomes would be drawn (A, B, or C).
 
-InA, the participant got to keep her endowment. In event B and C she would lose her endowment. Before an event was drawn, the participant were offered the opportunity to buy an insurance for $12. If the participant chose to purchase the insurance, event B would allow her to keep her endowment ($24 - $12), thus keeping $12. Event C would still cause her to lose her endowment. That is, if option B were drawn but the participant did not purchase insurance, "option luck" would be in play. If option C were drawn - regardless of insurance decision - "brute luck" would be in play.
+In event A, the participant got to keep her endowment. In event B and C she would lose her endowment. Before an event was drawn, the participant were offered the opportunity to buy an insurance for $12. If the participant chose to purchase the insurance, event B would allow her to keep her endowment ($24 - $12), thus keeping $12. Event C would still cause her to lose her endowment. That is, if option B were drawn but the participant did not purchase insurance, "option luck" would be in play. If option C were drawn - regardless of insurance decision - "brute luck" would be in play.
 
-Inwo (after insurance decision), participants had to make choices regarding the distribution of income from part 1 for another pair of participants. Participants were informed of the pair's insurance decisions, the outcome drawn, and the earnings for each participant in the pair. The choice would have no monetary consequences for themselves (i.e. decisions were made as a 'disinterested spectator'). Spectators had to decide between equalizing incomes or leaving them as drawn. For example, if one participant drew A and the other drew C, earnings were $24 and $0. The spectator could then equalize the earnings or leave them. Spectators had to make decisions for all possible outcomes from part 1.
+In part two (after insurance decision), participants had to make choices regarding the distribution of income from part 1 for another pair of participants. Participants were informed of the pair's insurance decisions, the outcome drawn, and the earnings for each participant in the pair. The choice would have no monetary consequences for themselves (i.e. decisions were made as a 'disinterested spectator'). Spectators had to decide between equalizing incomes or leaving them as drawn. For example, if one participant drew A and the other drew C, earnings were $24 and $0. The spectator could then equalize the earnings or leave them. Spectators had to make decisions for all possible outcomes from part 1.
 
-**e var
-Tht of, respectively, participants' luck and insurance descision on spectators' decisions to equalize outcomes.
+** Outcome var
+The impact of, respectively, participants' luck and insurance descision on spectators' decisions to equalize outcomes.
 
-** (and sign)
-Gi choice, 120 participants chose to partly insure against a zero-outcome. 32 did not.
+** Impact (and sign)
+Given the choice, 120 participants chose to partly insure against a zero-outcome. 32 did not.
 
-41spectators' chose to equalize in situations without brute luck. 50.5% chose to equalize in situations with brute luck. The difference is statistically significant (P < 0.01).
+41.1% of spectators' chose to equalize in situations without brute luck. 50.5% chose to equalize in situations with brute luck. The difference is statistically significant (P < 0.01).
 
-Sps does not treat brute and option luck seperately. Instead, spectators reward participants for choosing insurance, even when insurance would not have helped. For instance, when outcomes for one participant was A ($24) and the other participant were C ($0), 49.3% chose to equalize if participant with C had not insured, but 73% chose to equalize if participant with C had insured. Similarly, more people chose to equalize (62.5%) a B + insurance and C + insurance versus B + insurance and C without insurance (27%). Differences are statistically significant.
+Spectators does not treat brute and option luck seperately. Instead, spectators reward participants for choosing insurance, even when insurance would not have helped. For instance, when outcomes for one participant was A ($24) and the other participant were C ($0), 49.3% chose to equalize if participant with C had not insured, but 73% chose to equalize if participant with C had insured. Similarly, more people chose to equalize (62.5%) a B + insurance and C + insurance versus B + insurance and C without insurance (27%). Differences are statistically significant.
 
-Ustility model, the authors estimate that the data fits well with a model consisting of three types: strict egalitarians, libertarians, and choice compensators. Very little support is found for luck egalitarians.
+Using a utility model, the authors estimate that the data fits well with a model consisting of three types: strict egalitarians, libertarians, and choice compensators. Very little support is found for luck egalitarians.
 
-**geneous effects
+** Heterogeneous effects
 -
-**comments
+** Other comments
 -
 
 * Sands (2017) Exposure to inequality affects support for redistribution
-**summary
-Rad controlled field experiment shows that exposure to inequality in an affluent neighbourhood (walking by a poverty stricken person) lowers support for a millionaires tax (i.e. lower support for a redistributive policy). The effect is primarily driven by the effect of being petitioned next to a poverty-stricken white man.
-**s
-Sa
-**
-20
-**l
-Prgs of the National Academy of Sciences
+** Short summary
+Randomized controlled field experiment shows that exposure to inequality in an affluent neighbourhood (walking by a poverty stricken person) lowers support for a millionaires tax (i.e. lower support for a redistributive policy). The effect is primarily driven by the effect of being petitioned next to a poverty-stricken white man.
+** Authors
+Sands, M.
+** Year
+2017
+** Journal
+Proceedings of the National Academy of Sciences
 
-**y
-Unates (Boston, MA)
-**d subjects
-Pas in three affluent (and predominantly white) neighbourhoods around Boston, MA. All solicitations were conduced between October 3 and December 11 2015.
+** Country
+United States (Boston, MA)
+** Sampled subjects
+Passer-bys in three affluent (and predominantly white) neighbourhoods around Boston, MA. All solicitations were conduced between October 3 and December 11 2015.
 
-** size
-A f 2591 passer-bys were solicited.
+** Sample size
+A total of 2591 passer-bys were solicited.
 
-**ents
-Su(pedestrians who passed by the actor/petioner) were asked to sign a petition after walking by an actor.
+** Treatments
+Subjects (pedestrians who passed by the actor/petioner) were asked to sign a petition after walking by an actor.
 
-Th, who was either a black or a white male, portrayed either a poverty stricken person or an affluent person. After walkning by the actor, subjects were asked to either sign a petition supporting tax on millionaires or a law regarding the use of plastic bags.
+The actor, who was either a black or a white male, portrayed either a poverty stricken person or an affluent person. After walkning by the actor, subjects were asked to either sign a petition supporting tax on millionaires or a law regarding the use of plastic bags.
 
-Tr groupes were fully crossed, so that each combination of treatment variables (black/white actor portraying a affluent/poor person, tax/plastic bags petition) were equally likely. Subjects were randomly exposed to one of these eight treatment conditions.
+Treatment groupes were fully crossed, so that each combination of treatment variables (black/white actor portraying a affluent/poor person, tax/plastic bags petition) were equally likely. Subjects were randomly exposed to one of these eight treatment conditions.
 
-**e var
-Thoutcome variable was the response-rate to the petition that subjects were approached with.
+** Outcome var
+The main outcome variable was the response-rate to the petition that subjects were approached with.
 
-** (and sign)
-Poross actor-race conditions, subjects 4.4 pp less likely to support redistributive policy in presence of a poor person (but weak statistical significance, 0.1 > P > 0.05).
+** Impact (and sign)
+Pooled across actor-race conditions, subjects 4.4 pp less likely to support redistributive policy in presence of a poor person (but weak statistical significance, 0.1 > P > 0.05).
 
-Alactor-race to vary show that exposure to white poverty decreases support for redistributive polciy by 8.2 pp (P < 0.05). This corresponds to a fall in response rates of about 57% (14% to 6%). Subjects likelihood of supporting the petition on the use of plastic bags were not affected by any conditions.
+Allowing actor-race to vary show that exposure to white poverty decreases support for redistributive polciy by 8.2 pp (P < 0.05). This corresponds to a fall in response rates of about 57% (14% to 6%). Subjects likelihood of supporting the petition on the use of plastic bags were not affected by any conditions.
 
-Dice-in-difference estimates at the cluster level show similar results: the poverty-treatment lead to a decline of 8 pp (P < 0.05), with the effect driven by the poor white condition. The inequality effect of a poverty stricken black man is indistinguishable from 0.
+Diffierence-in-difference estimates at the cluster level show similar results: the poverty-treatment lead to a decline of 8 pp (P < 0.05), with the effect driven by the poor white condition. The inequality effect of a poverty stricken black man is indistinguishable from 0.
 
-**ology
-Th was randomized and placebo-controlled. In the experiment, an actor was placed in an affluent neighborhood on a sidewalk. The actor either portrayed a poverty stricked person or an affluent person. After a pedestrian had walked by the actor, a member of the research team apporach the passer-by to sign a petition supporting either a millionaire's tax, or a law regarding the use of plastic bags.
+** Methodology
+The study was randomized and placebo-controlled. In the experiment, an actor was placed in an affluent neighborhood on a sidewalk. The actor either portrayed a poverty stricked person or an affluent person. After a pedestrian had walked by the actor, a member of the research team apporach the passer-by to sign a petition supporting either a millionaire's tax, or a law regarding the use of plastic bags.
 
-Th was either black or non-hispanic white. The petitioner was either a white male or whie femaled.
+The actor was either black or non-hispanic white. The petitioner was either a white male or whie femaled.
 
-Thiment had a fully crossed factorial design. That is, both white and black pedestrians were randomly submitted to a black or white actor portraying a poor or an affluent person, and were treated to either the redistributive policy or the plastic bag policy.
+The experiment had a fully crossed factorial design. That is, both white and black pedestrians were randomly submitted to a black or white actor portraying a poor or an affluent person, and were treated to either the redistributive policy or the plastic bag policy.
 
-Thiment was complete block-randomized by day, such that all experimental conditions occured once each day, with 30 minute rotations. In total there were 74 date-time clusters across 15 days. Times were randomized.
+The experiment was complete block-randomized by day, such that all experimental conditions occured once each day, with 30 minute rotations. In total there were 74 date-time clusters across 15 days. Times were randomized.
 
-Ments were done as response rates to the petition they were approached with.
+Measurements were done as response rates to the petition they were approached with.
 
-Pers recorded their "best guesses" at gender, age, and race/ethnicity of the subjects they approached. These guesses were used as covariates and to estimate the economic class of subjects using zip-code level data from the 5-year American Community Survey.
+Petitioners recorded their "best guesses" at gender, age, and race/ethnicity of the subjects they approached. These guesses were used as covariates and to estimate the economic class of subjects using zip-code level data from the 5-year American Community Survey.
 
-**geneous effects'
-Thresult is driven by the negative effect of white subjects being exposed to a white actor portraying a poverty stricking person. That is, white subjects were less likely to sign  the redistributive petition after walking past a poor person of the own ethnicity.
+** Heterogeneous effects'
+The main result is driven by the negative effect of white subjects being exposed to a white actor portraying a poverty stricking person. That is, white subjects were less likely to sign  the redistributive petition after walking past a poor person of the own ethnicity.
 
-**comments
+** Other comments
 * Demiral and Mollerstrom (2015): The entitlement effect in the ultimatum game – does it even exist?
-**summary
-Thtlement effect" - when "earning" an good bargaining position in a game leads to the "entitled" player sharing a smaller slice of an endowment (as opposed to a position assigned by lottery) - could not be replicated in three experiments using the Ultimatum Game.
+** Short summary
+The "entitlement effect" - when "earning" an good bargaining position in a game leads to the "entitled" player sharing a smaller slice of an endowment (as opposed to a position assigned by lottery) - could not be replicated in three experiments using the Ultimatum Game.
 
-**s
-DeE.; Mollerstrom, J.
+** Authors
+Demiral, E.; Mollerstrom, J.
 
-**
-20
+** Year
+2020
 
-**l
-Jof Economic Behavior and Organization
+** Journal
+Journal of Economic Behavior and Organization
 
-**y
-Lay experiment 1: USA (VA)
-Lay experiment 2: USA (VA)
-Onperiment: participants were located in the US and Canada.
+** Country
+Laboratory experiment 1: USA (VA)
+Laboratory experiment 2: USA (VA)
+Online experiment: participants were located in the US and Canada.
 
-**d subjects
-Lay experiment 1: undergraduate students from George Mason University.
-Lay experiment 2: undergraduate students from George Mason University.
-Onperiment: partcipiants were recruited from Amazon MTurk and had at least 95% approval rating from previous completed HITs at the platform. Participants could any take part once.
+** Sampled subjects
+Laboratory experiment 1: undergraduate students from George Mason University.
+Laboratory experiment 2: undergraduate students from George Mason University.
+Online experiment: partcipiants were recruited from Amazon MTurk and had at least 95% approval rating from previous completed HITs at the platform. Participants could any take part once.
 
-** size
-Lay experiment 1: 128 partcipants. 66 female, 62 male.
-Lay experiment 2: 130 particpants. 65 female, 65 male.
-Onperiment: 996 participants. 492 female, 504 male.
+** Sample size
+Laboratory experiment 1: 128 partcipants. 66 female, 62 male.
+Laboratory experiment 2: 130 particpants. 65 female, 65 male.
+Online experiment: 996 participants. 492 female, 504 male.
 
-**ents
-Lay experiments:
-Fiticipants did a math task (with $0.25 reward per correct answer). Participants never learned about others' performance. Participants were then matched in pairs, grouped into two treatment arms. In the first treatment arm, the "Entitlement" treatment, the Proposer role was given to the person with the highest math score in the math task. In the second treatment arm, the "Random" treatment, roles were assigned by lottery. In both groups participants were informed how roles were assigned. Participants were paired accoring the performance in the task. The best performer were paired with the next-best performer, and so on.
+** Treatments
+Laboratory experiments:
+First participants did a math task (with $0.25 reward per correct answer). Participants never learned about others' performance. Participants were then matched in pairs, grouped into two treatment arms. In the first treatment arm, the "Entitlement" treatment, the Proposer role was given to the person with the highest math score in the math task. In the second treatment arm, the "Random" treatment, roles were assigned by lottery. In both groups participants were informed how roles were assigned. Participants were paired accoring the performance in the task. The best performer were paired with the next-best performer, and so on.
 
-Pants then played a one-shot Ultimatum Game. Proposers offered a division of an endowment of 20$. Responders then had to supply a minimum acceptable share of the pie. They were informed if the minimum offer was smaller or equal to the share offered by the Proposer, money would be split according to the Proposers offer.
+Participants then played a one-shot Ultimatum Game. Proposers offered a division of an endowment of 20$. Responders then had to supply a minimum acceptable share of the pie. They were informed if the minimum offer was smaller or equal to the share offered by the Proposer, money would be split according to the Proposers offer.
 
-Innal part of the experiment, the Proposer had to predict the minimum acceptable offer that their Responder had given. Similarly, the Responder had to predict the actual offer given by the Proposer.
+In the final part of the experiment, the Proposer had to predict the minimum acceptable offer that their Responder had given. Similarly, the Responder had to predict the actual offer given by the Proposer.
 
-Onperiment:
-The study was designed to be similar to the laboratory design, but some deviations were made. Instead participants had to solve a captcha-like task for 90 seconds ($0.10 for each correct answer). The endowment to be split were reduced to 300 cents. Finally, since particpants could not be matched in real time, participants had to give decisions as both Responder and Proposer.
+Online experiment:
+The online study was designed to be similar to the laboratory design, but some deviations were made. Instead participants had to solve a captcha-like task for 90 seconds ($0.10 for each correct answer). The endowment to be split were reduced to 300 cents. Finally, since particpants could not be matched in real time, participants had to give decisions as both Responder and Proposer.
 
-The experiment was conducted with participants recruited from Amazon MTurk (located in US and Canada). The experiment was conducted with 996 participants. Participants earned on average. The experiment took about 10 minutes to complete. Participants could only take part once.
+The online experiment was conducted with participants recruited from Amazon MTurk (located in US and Canada). The experiment was conducted with 996 participants. Participants earned on average. The experiment took about 10 minutes to complete. Participants could only take part once.
 
-Maation from original study (which found entitlement effect): the three experiments were almost identical to the orignial study. One difference is that in the original study, participant did not complete any tasks if they were assigned to the "Random" treatment. This means that there are two differences between the "Entitlement" and the "Random" groups in the original study (i.e. why they were assigned, but also if they completed tasks).
+Main deviation from original study (which found entitlement effect): the three experiments were almost identical to the orignial study. One difference is that in the original study, participant did not complete any tasks if they were assigned to the "Random" treatment. This means that there are two differences between the "Entitlement" and the "Random" groups in the original study (i.e. why they were assigned, but also if they completed tasks).
 
-**e var
-Thnal purpose of the experiments was to test whether the 'entitlement effect' found in Hoffman et al (1994) was driven by gender-differences. However, the effect did not replicate.
+** Outcome var
+The original purpose of the experiments was to test whether the 'entitlement effect' found in Hoffman et al (1994) was driven by gender-differences. However, the effect did not replicate.
 
-Thment difference on the share offered to Responders by Proposers were never statistically significant (by themselves, pooled, or separated by gender).
+The treatment difference on the share offered to Responders by Proposers were never statistically significant (by themselves, pooled, or separated by gender).
 
-Thulation checks suggest that the experiment worked as intended. Proposers' beliefs about their relative performances (higher), their feelings of deserving to be the proposer (higher), and their "objective" sense of what is a fair shair to the responder (lower in 2/3 experiments) were impacted by being assigned to the "Entitlement" treatment.
+The manipulation checks suggest that the experiment worked as intended. Proposers' beliefs about their relative performances (higher), their feelings of deserving to be the proposer (higher), and their "objective" sense of what is a fair shair to the responder (lower in 2/3 experiments) were impacted by being assigned to the "Entitlement" treatment.
 
-** (and sign)
-- come var.
+** Impact (and sign)
+- See outcome var.
 
-**ology
-Thaboratory experiments were conducted in a similar manner. Both studies took part over 10 sessions, with treatment randomly allocated at the session level. Participants received an average of $18.4 in the first rounds of experiments (lab experiment 1) and an average of $19.6 in the latter. Sessions lasted around 40 minutes.
+** Methodology
+The two laboratory experiments were conducted in a similar manner. Both studies took part over 10 sessions, with treatment randomly allocated at the session level. Participants received an average of $18.4 in the first rounds of experiments (lab experiment 1) and an average of $19.6 in the latter. Sessions lasted around 40 minutes.
 
-Inline experiment, treatment was randomized at the individual level. Participants earned an average of $2.9. Sessions took around 10 minutes to complete.
+In the online experiment, treatment was randomized at the individual level. Participants earned an average of $2.9. Sessions took around 10 minutes to complete.
 
-**geneous effects
+** Heterogeneous effects
 -
 
-**comments
-Thatum Game (UG) is a simple bargaining game between two people, the Proposer and the Responder. The Proposer suggest a split of an endowment between the two participants. The Responder has to decide whether or not to accept the proposal. If accepted, the endowment is divided accordong to the Proposers suggested split. If the Responder rejects, neither participant gets anything.
+** Other comments
+The Ultimatum Game (UG) is a simple bargaining game between two people, the Proposer and the Responder. The Proposer suggest a split of an endowment between the two participants. The Responder has to decide whether or not to accept the proposal. If accepted, the endowment is divided accordong to the Proposers suggested split. If the Responder rejects, neither participant gets anything.
 
-Thtlement effect" is situation where Proposers who are assigned their position by completing some task successfully ("earning" the position as opposed to getting it assigned by lottery) offers a smaller share of the endowment to the Responder.
+The "entitlement effect" is situation where Proposers who are assigned their position by completing some task successfully ("earning" the position as opposed to getting it assigned by lottery) offers a smaller share of the endowment to the Responder.
 
-Thlement effect is a prominent result from a widely cited paper (Hoffman et al 1994). The original authors did not collect demographic information on participants. The present study was originally designed to test if the entitlement effect is driven by gender differences (between men and women). However, the entitlement effect did not replicate.
+The entitlement effect is a prominent result from a widely cited paper (Hoffman et al 1994). The original authors did not collect demographic information on participants. The present study was originally designed to test if the entitlement effect is driven by gender differences (between men and women). However, the entitlement effect did not replicate.
 
 * Bruckmuller et al (2017): Is higher inequality less legitimate? Depends on How You Frame it!
-**summary
-Whr not a scenario with inequality is framed as the rich having "more than" the poor or the poor having "less than" the rich significantly interacts with the perceived inequality to determine whether the difference is considered to be legitimate.
-**s
-Brer, S.; Reese, G.; Martiny, S.
-**
-20
+** Short summary
+Whether or not a scenario with inequality is framed as the rich having "more than" the poor or the poor having "less than" the rich significantly interacts with the perceived inequality to determine whether the difference is considered to be legitimate.
+** Authors
+Bruckmüller, S.; Reese, G.; Martiny, S.
+** Year
+2017
 
-**l
-Brournal of Social Psychology
+** Journal
+British Journal of Social Psychology
 
-**y
-GeEast)
+** Country
+Germany (East)
 
-**d subjects
-StStudents at a large university in the East of Germany.
-StStudents at a small university in Southwest Germany.
+** Sampled subjects
+Study 1: Students at a large university in the East of Germany.
+Study 2: Students at a small university in Southwest Germany.
 
-** size
-St124 students were enrolled. Average age: 22 (SD: 4.4). 55 female, 63 male, 6 did not indicate gender.
-St66 students were enrolled. Average age: 22 (SD: 3.2). 29 female, 36 male, one did not indicate gender.
+** Sample size
+Study 1: 124 students were enrolled. Average age: 22 (SD: 4.4). 55 female, 63 male, 6 did not indicate gender.
+Study 2: 66 students were enrolled. Average age: 22 (SD: 3.2). 29 female, 36 male, one did not indicate gender.
 
-**ents
-StIncome inequality was operationalized as tax benefits framed either as more advantageous for wealthier people than for poorer people, or less advantageous for poorer people than for richer people. "Rich" and "poor" were also varied with "highest 10% of society" and "lowest 10% of society". Participants read a scenario where they could change tax regulations.
+** Treatments
+Study 1: Income inequality was operationalized as tax benefits framed either as more advantageous for wealthier people than for poorer people, or less advantageous for poorer people than for richer people. "Rich" and "poor" were also varied with "highest 10% of society" and "lowest 10% of society". Participants read a scenario where they could change tax regulations.
 
-Iness than" treatment it was stated that the poor (or "lowest...") had a 15% lower net income from their gross income that the rich. In the "more than" treatment it was stated that rich had a 15% higher net income from their gross income than the poor.
+In the "less than" treatment it was stated that the poor (or "lowest...") had a 15% lower net income from their gross income that the rich. In the "more than" treatment it was stated that rich had a 15% higher net income from their gross income than the poor.
 
-Pants responded to the questions "I think the salary difference between the rich (the upper 10%) and the poor (the lower 10%) is ..." on a 7-point likert scale (1 = very small, 7 = very big). This was followed by a measure of perceived legitimacy (four questions). These were also scored on 7-point likert.
+Participants responded to the questions "I think the salary difference between the rich (the upper 10%) and the poor (the lower 10%) is ..." on a 7-point likert scale (1 = very small, 7 = very big). This was followed by a measure of perceived legitimacy (four questions). These were also scored on 7-point likert.
 
-StThe study was similar to study 1, but with two exceptions. Before participants read the inequality framing scenario, egalitarianism was measured with 7 statements from Katz and Hass (1988) (e.g. "There should be inequality for everyone - because we are all human beings.") and two items from Beierlein et al (2013) (e.g. "I am upset when someone is undeservingly worse off than others").
+Study 2: The study was similar to study 1, but with two exceptions. Before participants read the inequality framing scenario, egalitarianism was measured with 7 statements from Katz and Hass (1988) (e.g. "There should be inequality for everyone - because we are all human beings.") and two items from Beierlein et al (2013) (e.g. "I am upset when someone is undeservingly worse off than others").
 
-Al were score on 7-point likert ("do not agree at all" to "fully agree"). Inequality was also operationalized differently. Participants were asked to be manager in a large firm. The participants were either told that the firm paid temporary workers 2 euros "less than" an hour than permanent workers, or that permanent workers earned 2 euros "more than" temporary workers.
+All items were score on 7-point likert ("do not agree at all" to "fully agree"). Inequality was also operationalized differently. Participants were asked to be manager in a large firm. The participants were either told that the firm paid temporary workers 2 euros "less than" an hour than permanent workers, or that permanent workers earned 2 euros "more than" temporary workers.
 
-Pants then respondent to their perceieved magnitude of the difference, what the hourly wage of each group should be (the were informed that permanent workers earned 11.5 euros), the legitimacy measure from study 1, and demographics.
+Participants then respondent to their perceieved magnitude of the difference, what the hourly wage of each group should be (the were informed that permanent workers earned 11.5 euros), the legitimacy measure from study 1, and demographics.
 
-**e var
-Stas two main outcome variables: perceived magnitude of income differences between the rich and poor (in the treatment scenarios) and the legitimacy of this perceived difference.
+** Outcome var
+Study 1 has two main outcome variables: perceived magnitude of income differences between the rich and poor (in the treatment scenarios) and the legitimacy of this perceived difference.
 
-Stas three main outcome variables: perceived magnitude of income differences between the temporary and permanent workers (in the treatment scenarios), the perceived optimale wage of each group, and the legitimacy of the perceived difference.
+Study 2 has three main outcome variables: perceived magnitude of income differences between the temporary and permanent workers (in the treatment scenarios), the perceived optimale wage of each group, and the legitimacy of the perceived difference.
 
-** (and sign)
-Stid not show any statistical significance in an analysis of variance between different treatment conditions on perceived legitimacy. A multiple regression analysis with legitimacy as dependent variable (mean centered) was statically significant as model (R squared = 0.13). Group labels (rich, poor, etc) did not predict legitimacy, neither alone or as interaction with framing or perceived inequality. Interaction between perceived difference and framing was significant (P = 0.01). Participants in "less than" framing saw difference in outcomes as less legitimate the greater they perceived inequality to be.
+** Impact (and sign)
+Study 1 did not show any statistical significance in an analysis of variance between different treatment conditions on perceived legitimacy. A multiple regression analysis with legitimacy as dependent variable (mean centered) was statically significant as model (R squared = 0.13). Group labels (rich, poor, etc) did not predict legitimacy, neither alone or as interaction with framing or perceived inequality. Interaction between perceived difference and framing was significant (P = 0.01). Participants in "less than" framing saw difference in outcomes as less legitimate the greater they perceived inequality to be.
 
-Stid not find a relationship between framing and perceived inequality. In a regression model, participants that were more egalitarian saw the difference as larger (p < 0.001) and less legitimate (p = 0.011). There was a significant interaction effect between framing condition and perceived difference (P = 0.036). Similarly to study 1, perceived difference significantly predicted legitimacy in the "less than" condition, but not in the "more than" condition (P < 0.001).
+Study 2 did not find a relationship between framing and perceived inequality. In a regression model, participants that were more egalitarian saw the difference as larger (p < 0.001) and less legitimate (p = 0.011). There was a significant interaction effect between framing condition and perceived difference (P = 0.036). Similarly to study 1, perceived difference significantly predicted legitimacy in the "less than" condition, but not in the "more than" condition (P < 0.001).
 
-**ology
-RCb. In both studies, participants were equally and randomly assigned to treatment conditions.
+** Methodology
+RCT in lab. In both studies, participants were equally and randomly assigned to treatment conditions.
 
-**geneous effects
+** Heterogeneous effects
 -
-**comment
+** Other comment
 * Blake et al (2015) The ontogeny of fairness in seven societies
 ** Short summary
 Aversion to disadvantagous inequality ("the other person has more than me") was found in early childhood and across all test sites. Aversion to advantageous inequality ("I have more than the other person") was only found in three of the 7 sites (Uganda, USA, Canada) and developed in late childhood.
